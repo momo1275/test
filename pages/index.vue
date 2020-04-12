@@ -1,4 +1,6 @@
 <template>
-  <h1>テスト</h1>
-  <p>aaaaa</p>
+  <div>
+    <h1>hello</h1>
+    <p>aaaa</p>
+  </div>
 </template>
